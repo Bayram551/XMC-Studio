@@ -96,7 +96,7 @@ Enable **"Install from unknown sources"** in your device settings.
 
 | | |
 |---|---|
-| **OS** | Android 7.0 (API 24) or newer |
+| **OS** | Android 8.0 (API 26) or newer |
 | **ABI** | ARM64 (arm64-v8a) |
 | **Storage** | ~50 MB |
 | **RAM** | ~100 MB |
