@@ -4,7 +4,7 @@ A professional Digital Audio Workstation (DAW) for Android — built with Kotlin
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Android-green.svg)
-![Min SDK](https://img.shields.io/badge/minSdk-24-orange.svg)
+![Min SDK](https://img.shields.io/badge/minSdk-26-orange.svg)
 
 ---
 
