@@ -70,7 +70,9 @@ A professional Digital Audio Workstation (DAW) for Android — built with Kotlin
 
 ## Screenshots
 
-> *(add screenshots here)*
+![Screenshot_20260924_195159_com.studio.xmc.jpg](https://github.com/user-attachments/assets/f913b557-41db-4385-9ddd-1cd16709c9af)
+
+
 
 ---
 
